@@ -11,6 +11,6 @@
 
     ],
     'demo': [
-        'views/nursery_views.xml',
+       # 'views/nursery_views.xml',
     ],
 }
